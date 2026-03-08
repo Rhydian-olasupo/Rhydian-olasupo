@@ -52,7 +52,7 @@ I enjoy solving complex technical problems involving **quantitative modelling, s
 ### Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c++&logoColor=white)
 
 ### Backend & Infrastructure
 ![gRPC](https://img.shields.io/badge/gRPC-0E8E9A?style=for-the-badge)
